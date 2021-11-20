@@ -1,3 +1,3 @@
  #! /bin/bash
 
-  echo "hello world"
+  echo "i will be making about 200k a year in Jesus name"
